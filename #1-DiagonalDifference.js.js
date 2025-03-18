@@ -1,7 +1,7 @@
 /*
   * Link : https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
   * 
-  * Day 1 - Diagonal Difference
+  * Day 1 - Diagonal Difference - 18/03/2025
   *
       - Diberikan sebuah matriks persegi, hitunglah selisih mutlak antara jumlah diagonal-diagonalnya. Misalnya, matriks persegi arr ditunjukkan di bawah ini:
 
