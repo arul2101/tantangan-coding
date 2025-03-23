@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/staircase/problem
+  * Level : Easy
   * 
   * Day 4 - Staircase - 21/03/2025
   *

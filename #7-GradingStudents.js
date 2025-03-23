@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/grading/problem
+  * Level : Easy
   * 
   * Day 7 - Grading Students - 24/03/2025
   *

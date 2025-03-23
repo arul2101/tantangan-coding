@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
+  * Level : Easy
   * 
   * Day 3 - Birthday Cake Candles - 20/03/2025
   *

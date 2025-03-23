@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/apple-and-orange/problem
+  * Level : Easy
   * 
   * Day 8 - Apple And Orange - 25/03/2025
   *

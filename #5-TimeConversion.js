@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/time-conversion/problem
+  * Level : Easy
   * 
   * Day 5 - Time Conversion - 22/03/2025
   *

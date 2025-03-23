@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
+  * Level : Easy
   * 
   * Day 1 - Diagonal Difference - 18/03/2025
   *

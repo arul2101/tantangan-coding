@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
+  * Level : Easy
   * 
   * Day 2 - Plus Minus - 19/03/2025
   *

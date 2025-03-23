@@ -1,5 +1,6 @@
 /*
   * Link : https://www.hackerrank.com/challenges/mini-max-sum/problem
+  * Level : Easy
   * 
   * Day 6 - Mini Max Sum - 23/03/2025
   *
